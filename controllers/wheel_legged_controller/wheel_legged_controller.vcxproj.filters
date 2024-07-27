@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Accelerometer.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Altimeter.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Brake.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Camera.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Compass.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Connector.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Device.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Display.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\DistanceSensor.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Emitter.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Field.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\GPS.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Gyro.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\InertialUnit.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Joystick.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Keyboard.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\LED.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Lidar.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\LightSensor.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Motion.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Motor.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Mouse.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Node.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Pen.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\PositionSensor.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Radar.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\RangeFinder.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Receiver.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Robot.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Skin.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Speaker.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\Supervisor.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\TouchSensor.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="$(WEBOTS_HOME)\src\controller\cpp\VacuumGripper.cpp">
+      <Filter>webots cpp warpper</Filter>
+    </ClCompile>
+    <ClCompile Include="wheel_legged_controller.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="pid.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="pid_balance.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="vmc.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="public.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="lqr.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="virtual_model_control.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="lqr_calculate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="MPC_controller.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="webots cpp warpper">
+      <UniqueIdentifier>{f385e80d-3022-4076-9f5c-8581189f30ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{05a3b833-d169-46b0-9a7d-36a712518aa8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{73ca7c6e-82f3-4538-81e5-cbcbe38ad490}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="test.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="pid.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="public.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="pid_balance.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="wheel_legged_controller.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="vmc.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="lqr.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="virtual_model_control.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="lqr_calculate.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="MPC_controller.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
